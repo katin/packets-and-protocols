@@ -1,6 +1,6 @@
 # packets-and-protocols
 
-A resource pack for infosec professionals and students focusing on the capture, analysis, pentesting, and securing of network traffic and network appliances.
+A resource pack for infosec professionals and students focusing on the capture, analysis, pentesting, and securing of network traffic and network appliances. This is a package of markdown documents that will map out resources relevant to the topic. Eventually, I hope to also have a document that describes one more learning paths through the resources.
 
 ## Standard Learning Recommendations
 Infosec / cybersecurity is a fast-growing and vast field. The depths of knowledge required to be effective and professional are challenging to develop and master. These top four pro-tips are important to follow in order to support your health, comprehension, and effective learning. 
