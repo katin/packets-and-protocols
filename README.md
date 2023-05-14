@@ -13,5 +13,5 @@ Infosec / cybersecurity is a fast-growing and vast field. The depths of knowledg
 
 5. Develop and use whatever learning tools work best for you. Note apps, index cards, databases, sketchbooks, whatever. There is a huge amount of information to track, tag, and organize as you learn. Get good at this. Put some effort into selecting methods that are reliable and accessible, and spend the time needed to learn them well.
 
-## Deep-dive Pack Ssections
+## Deep-dive Pack Sections
 Check the folders in this repository to see the various topics and categories of information. While this is being built out, this README file might be out of date with the latest posts and updates within this repo.
